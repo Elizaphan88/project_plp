@@ -1,6 +1,6 @@
- SALAMA MILLERS & CEREALS DEALERS LIMITED WEB APP 
+# SALAMA MILLERS & CEREALS DEALERS LIMITED WEB APP 
  
-FEATURES
+## FEATURES
 
 User-friendly Website:
 A visually appealing and easy-to-navigate website showcasing Salama Millers and Cereals Ltd products.
